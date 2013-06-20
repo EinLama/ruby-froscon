@@ -1,6 +1,26 @@
-/* Welcome to Compass.
- * In this file you should write your main styles. (or centralize your imports)
- * Import this file using the following HTML or equivalent:
- * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+#topnav {
+  .title {
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+    margin-top: 40px;
+  }
+}
 
-@import "compass/reset";
+#services {
+
+  .heading {
+    h3 {
+      color: #3a3a3a;
+      text-shadow: 2px 0 #f8f8f8;
+    }
+  }
+
+  .section-intro {
+    p {
+      color: #3a3a3a;
+    }
+  }
+
+}
+

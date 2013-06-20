@@ -311,7 +311,7 @@ section#intro{
 	width:100%;
 	height:auto;
 	margin:0;
-	padding:240px 0 120px;
+	padding:200px 0 120px;
 }
 
 section#intro.inner {
@@ -725,18 +725,10 @@ ul.the-icons {
 
 /* ================= services ============================ */
 section#services {
-	background: url(../img/bg/bg-1.jpg) 50% 0 no-repeat fixed;
+	background: url(../img/bg/bg-2.jpg) 50% 0 no-repeat fixed;
 	width:100%;
 	height:auto;
 	margin:0;
-}
-
-#services .headline h3 {
-	color:#fff;
-}
-
-#services .section-intro p {
-	color:#f8f8f8;
 }
 
 .service-intro{
