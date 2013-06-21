@@ -82,7 +82,7 @@ jQuery(document).ready(function($) {
 	
 	// parallax background
 		$('#intro').parallax("50%", 0.1);
-		$('#services').parallax("50%", 0.2);
+		$('#schedule').parallax("50%", 0.2);
 		$('#bottom').parallax("50%", 0.1);
      
 	//navigation
