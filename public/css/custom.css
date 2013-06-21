@@ -5,10 +5,31 @@
   margin-top: 40px;
 }
 
+#intro .slogan h1 {
+  background-color: white;
+  padding: 5px 10px;
+  color: #3a3a3a;
+  display: inline-block;
+}
+
+.ruby {
+  color: #b80e16;
+}
+
+.froscon {
+  color: #1c8fd2;
+}
+
 #services .heading h3 {
   color: #3a3a3a;
-  text-shadow: 2px 0 #f8f8f8;
+  text-shadow: none;
+  background-color: white;
+  padding: 0 10px;
 }
-#services .section-intro p {
+#services .sub-heading p {
   color: #3a3a3a;
+  text-shadow: none;
+  background-color: white;
+  display: inline-block;
+  padding: 0 5px;
 }

@@ -144,7 +144,6 @@ blockquote {
 	font-weight:700;
 	text-align:center;
 	text-shadow: 0 1px 0 #ffffff;	
-	border-bottom:3px double #333;
 	width:auto;
 	display:inline;
 }
@@ -152,7 +151,6 @@ blockquote {
 section.dark .heading h3{
 	color:#fff;
 	text-shadow: 0 1px 0 #3a3a3a;	
-	border-bottom:3px double #eee;
 	width:auto;
 	display:inline;
 	
