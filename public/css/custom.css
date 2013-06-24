@@ -20,19 +20,19 @@
   color: #1c8fd2;
 }
 
-#schedule .heading h3 {
+#programm .heading h3 {
   color: #3a3a3a;
   text-shadow: none;
   background-color: white;
   padding: 0 10px;
 }
-#schedule .sub-heading p {
+#programm .sub-heading p {
   color: #3a3a3a;
   text-shadow: none;
   background-color: white;
   display: inline-block;
   padding: 0 5px;
 }
-#schedule .timeslot {
+#programm .timeslot {
   font-size: 12px;
 }

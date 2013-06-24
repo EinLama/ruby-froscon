@@ -721,8 +721,8 @@ ul.the-icons {
 
 /* carousel slider */
 
-/* ================= schedule ============================ */
-section#schedule {
+/* ================= programm ============================ */
+section#programm {
 	background: url(../img/bg/bg-2.jpg) 50% 0 no-repeat fixed;
 	width:100%;
 	height:auto;
@@ -741,7 +741,7 @@ section#schedule {
 	margin-bottom:0;
 }
 
-/*========== call-for-papers ==================*/
+/*========== call-for-proposals ==================*/
 
 ul.filter {
 	list-style:none;

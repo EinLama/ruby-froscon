@@ -22,7 +22,7 @@ jQuery(document).ready(function($) {
 
   // parallax background
   $('#intro').parallax("50%", 0.1);
-  $('#schedule').parallax("50%", 0.2);
+  $('#programm').parallax("50%", 0.2);
   $('#bottom').parallax("50%", 0.1);
 
   //navigation
