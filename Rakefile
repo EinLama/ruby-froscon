@@ -1,3 +1,8 @@
+require 'yaml'
+require 'mustache'
+require 'debugger'
+require 'active_support/core_ext'
+
 desc "Start a Puma server"
 task :server do
   `bundle exec shotgun --host 0.0.0.0 --server puma server.rb`
@@ -54,3 +59,30 @@ end
 
 task :default => [:server]
 
+class TalkView < Mustache
+  self.template_file = './talks/view.html.mustache'
+
+  def initialize(talk)
+    talk.each do |attr, val|
+      self[attr.to_sym] = val
+    end
+  end
+
+  def pics
+    [self[:pic]].flatten.map { |pic| { pic_url: pic }  }
+  end
+
+end
+
+desc "Generate talk detail pages"
+task :talks do
+  mkdir_p "public/talks"
+
+  Dir["talks/*.yml"].each do |talk_yml|
+    talk = YAML.load(open(talk_yml))
+    view = TalkView.new(talk)
+    path = File.join("public", "talks", talk['title'].parameterize)
+    mkdir_p path
+    File.open(File.join(path, "index.html"), "w+") { |f| f.puts view.render }
+  end
+end
