@@ -1,0 +1,15 @@
+speaker: Eduard Litau
+day: 2
+slot: 14:00 - 15:00
+language: Deutsch
+title: Testbarkeit in Ruby
+pic: http://images.moonglum.net/eduard_litau.png
+abstract: |
+  Tests steigern die Qualität und das Vertrauen in die Software. Wie muss nun Code gestaltet werden, so dass die Tests
+  dazu einfacher geschrieben werden können? Was sind die typischen Schwachstellen von Ruby Programmen? Und wie schreibt
+  man Code, der es leicht macht, diese Schwachstellen durch Tests offen zu legen? In diesem Vortrag gehe ich anhand von
+  Beispielen auf die Attribute von schwer testbarem und fehleranfälligem Ruby Code ein und stelle Patterns und
+  Refactorings vor, um die Tests zu vereinfachen.
+bio: |
+  Ich erstelle seit 2006 Software in Ruby, treibe mich gerne auf der Kölsch.rb rum und schreibe grade meine
+  Abschlussarbeit an der FH Köln.

@@ -1,0 +1,14 @@
+speaker: Lucas Dohmen
+day: 2
+slot: 15:15 - 16:15
+language: Deutsch
+title: OO ohne Vererbung
+pic: https://secure.gravatar.com/avatar/84ac75cc9db741ff266392c83de9aa15?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png
+abstract: |
+  In so gut wie jeder Definition von Objektorientierung findet sich ein Wort: Vererbung! In diesem Vortrag möchte ich auf
+  die Probleme von Vererbung eingehen mit einem starken Fokus auf die Testbarkeit von Klassen. Danach werde ich Lösungen
+  zeigen, wie man Vererbung umgehen kann und Fälle, in denen man wohl nicht um sie herumkommt.
+bio: |
+  Lucas ist Teil des Core Teams der Open-Source NoSQL Datenbank ArangoDB. Er ist zudem im Open Source und Community
+  Projekt hacken.in involviert. Du findest ihn auf so gut wie jedem Treffen der lokalen Usergroups für Ruby, JavaScript
+  und NoSQL.
