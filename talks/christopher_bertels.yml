@@ -14,3 +14,5 @@ bio: |
   Christopher Bertels loves studying and implementing programming languages.
   In his free time, he works on Fancy, a new Smalltalk inspired dynamic object language that runs on Rubinius.
   Professionally he works on compilers and server backend systems & tools.
+video:
+  http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_16:30_-_the_fancy_programming_language_-_christoph_bertels_-_1272.html

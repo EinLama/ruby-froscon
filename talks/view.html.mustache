@@ -65,6 +65,14 @@
         <p>
           {{ abstract }}
         </p>
+        <p>
+          {{# video }}
+            <a href="{{ video }}">Zum Video</a>
+          {{/ video }}
+          {{^ video }}
+            Leider kein Video verfügbar.
+          {{/ video }}
+        </p>
       </div>
     </div>
   </div>

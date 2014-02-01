@@ -1,6 +1,5 @@
 require 'yaml'
 require 'mustache'
-require 'debugger'
 require 'active_support/core_ext'
 
 desc "Start a Puma server"
