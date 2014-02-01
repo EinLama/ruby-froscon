@@ -12,3 +12,5 @@ abstract: |
 bio: |
   Informatik-Student der Hochschule Niederrhein Krefeld im letzten Semester, der sich für IT-Security interessiert. In
   seiner Freizeit beschäftigt er sich besonders mit Ruby im Bereich Konsole und Web Entwicklung.
+video:
+  http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-24_16:30_-_building_awesome_ruby_command_line_apps_-_christian_vervoorts_-_1267.html
