@@ -38,21 +38,24 @@
   <div class="navbar-inner">
     <div class="container">
       <div class="title">
-        <a href="http://ruby.froscon.org">
+        <a href="/">
           RedFrog Conf 2014
         </a>
       </div>
-      <div class="navigation">
-        <nav>
-        <ul class="nav pull-right">
-          <li class="current"><a href="#intro">Intro</a></li>
-          <li><a href="#hintergrund">Hintergrund</a></li>
-          <li><a href="#programm">Programm</a></li>
-          <li><a href="#call-for-proposals">Call for Proposals</a></li>
-          <li><a href="#ort">Ort</a></li>
-        </ul>
-        </nav>
-      </div>
+      <% if @show_main_nav %>
+        <div class="navigation">
+          <nav>
+            <ul class="nav pull-right">
+              <li class="current"><a href="#intro">Intro</a></li>
+              <li><a href="#hintergrund">Hintergrund</a></li>
+              <li><a href="#programm">Programm</a></li>
+              <li><a href="#call-for-proposals">Call for Proposals</a></li>
+              <li><a href="#ort">Ort</a></li>
+              <li><a href="#geschichte">Geschichte</a></li>
+            </ul>
+          </nav>
+        </div>
+      <% end %>
       <!--/.nav-collapse -->
     </div>
   </div>
@@ -69,8 +72,8 @@
       <div class="span12">
         <div class="aligncenter">
           <div class="logo">
-            <a class="brand" href="index.html">
-              <img src="img/ruby_froscon_logo-small.png" width="159" />
+            <a class="brand" href="/">
+              <img src="/img/ruby_froscon_logo-small.png" width="159" />
             </a>
           </div>
           <p>
