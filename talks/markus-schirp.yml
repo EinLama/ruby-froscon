@@ -1,0 +1,28 @@
+speaker: Markus Schirp
+day: 1
+slot: 11.15 - 11:45
+language: Englisch
+title: Can we write perfect tests? - Maybe!
+pic: https://secure.gravatar.com/avatar/e6ed5f2de663e2ca624e694da09ac8a8?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png
+abstract: |
+  The pros of a solid unit test suite are well understood and accepted in the ruby community.
+
+  The problem: How to define solid? Traditional metrics like line-coverage, branch-coverage and even statement-coverage
+  can be misleading. Having a statement executed once does not mean all edge cases are specified and bug-free!
+
+  Automated tools can be used to identify uncovered edge cases that will introduce bugs into your program.
+
+  Mutation testing brings fuzzing to the implementation level. Unlike input fuzzing it modifies the implementation to
+  check if the test suite can detect a huge set of automatically introduced behaviour changes.
+
+  This talk will elaborate the history of testing and the metrics that are used to define coverage. And how such metrics
+  can and have misguided development direction.
+
+  It will also show examples of projects that heavily adopted mutation testing. Especially the long term effects and how
+  the (mutation)-metrics driven approach improved developer happiness and code stability. Showing what kind of actual
+  bugs where caught and how code became naturally streamlined.
+
+  Lastly the current and future limits of existing mutation testing tools will be presented.
+bio: |
+  Thinking human, father, ROM-Core-Team, mutant author, developer, pentesting, self-employed, sports addict and those
+  stuff that does not fit in 160 chars!

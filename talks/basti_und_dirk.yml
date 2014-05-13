@@ -1,0 +1,26 @@
+speaker: Dirk Breuer und Sebastian Cohnen
+day: 2
+slot: 10:00 - 11:00
+language: Deutsch
+title: Ruby is Magic
+pic:
+  - https://secure.gravatar.com/avatar/5dc119d652b05e4ce8048d013fa602a4?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png
+  - https://secure.gravatar.com/avatar/5a342a41b386d3e37a1ed6d2232e4b87?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png
+abstract: |
+  In den vergangen Jahren ist Ruby als Programmiersprache immer populärer geworden.
+  Mittlerweile ist Rails allerdings nicht länger das alleinige Zugpferd für diesen
+  Erfolg. Ruby erfreut sich als Sprache selbst großer Beliebtheit. Diese Beliebtheit
+  ist vor allem auf die unendlichen Möglichkeiten zurückzuführen, die die dynamischen
+  Eigenschaften der Sprache bieten. Wir wollen in diesem Talk eine Tour durch diese
+  Möglichkeiten geben. Was geht alles? Was sollte man tun? Was könnte man tun? Was
+  vermeidet man besser? Wo finden sich diese Dinge im alltäglichen Gebrauch wieder?
+  Wie immer wird es eine bunte und unterhaltsame Darbietung werden.
+bio: |
+  Dirk (@railsbros_dirk) hackt Ruby (und Rails) seit 2005 und ist freier Softwareentwickler. Seine Stärken sind definitiv
+  elegante Lösungen zu verzwickten Problemen und Software Architekturen. Ausserdem ist er gläubiger SOA-Anhänger.
+more_bio: |
+  Basti (@tisba) hackt Ruby/Rails seit 2006 und ist seit dem Ende seines Studiums als Freiberufler unterwegs. Sein
+  aktuelles Beschäftigungsfeld dreht sich neben der Entwicklung von Ruby/Rails Projekten um performante und skalierbare
+  Systeme mit node.js.
+video:
+  http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-25_10:00_-_ruby_is_magic_-_dirk_breuer_-_sebastian_cohnen_-_1262.html

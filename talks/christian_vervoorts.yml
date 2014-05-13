@@ -1,0 +1,16 @@
+speaker: Christian Vervoorts
+day: 1
+slot: 16:30 - 17:30
+language: Deutsch
+title: Building Awesome Ruby Command Line Apps
+pic: http://images.moonglum.net/christian_vervoorts.png
+abstract: |
+  In Zeiten von Webapps, Android- und iPhone-Apps werden CLI-Apps vernachlässigt. Viele denken sie sind zu komplex oder
+  passen nicht für die Aufgabe, aber die Macht der Konsole ist ungebrochen und wartet drauf genutzt zu werden. Sie kann
+  einem viel Spaß bereiten und das Leben vereinfachen, wenn man Ruby als seinen Partner hat. "Building Awesome Ruby
+  Command Line Apps" ist das Ziel dieses Vortrags und am Ende werden auch alle verstehen wieso es das ist.
+bio: |
+  Informatik-Student der Hochschule Niederrhein Krefeld im letzten Semester, der sich für IT-Security interessiert. In
+  seiner Freizeit beschäftigt er sich besonders mit Ruby im Bereich Konsole und Web Entwicklung.
+video:
+  http://media.ccc.de/browse/conferences/froscon/2013/hs6_-_2013-08-24_16:30_-_building_awesome_ruby_command_line_apps_-_christian_vervoorts_-_1267.html
