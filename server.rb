@@ -1,12 +1,19 @@
 require 'rubygems'
 require 'sinatra'
 
-get '/' do
+def main_page
   @show_main_nav = true
   erb :index
 end
 
-get '/history/2013' do
+get '/' do
+  main_page
+end
+get '/index.html' do
+  main_page
+end
+
+get '/2013.html' do
   erb "2013".to_sym
 end
 
