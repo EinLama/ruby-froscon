@@ -20,6 +20,11 @@
   color: #1c8fd2;
 }
 
+.speaker {
+  height: 150px;
+  text-align: center;
+}
+
 #programm .heading h3 {
   color: #3a3a3a;
   text-shadow: none;
