@@ -20,6 +20,22 @@
   color: #1c8fd2;
 }
 
+.speaker {
+  height: 150px;
+  text-align: center;
+}
+
+.workshop {
+  height: 1880px;
+  position: absolute;
+  width: 29%;
+}
+
+.workshop-invisible {
+  height: 305px;
+  visibility: hidden;
+}
+
 #programm .heading h3 {
   color: #3a3a3a;
   text-shadow: none;
